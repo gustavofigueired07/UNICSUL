@@ -1,0 +1,7 @@
+========== ECOCAMPUS =========
+Locais analisados: 20
+Consumo total: 14910.20 litros
+Consumo medio: 745.51 litros
+Maior consumo: Jardins - 1340.20 litros
+Locais em alerta: 9
+===============================
